@@ -4,7 +4,9 @@
 using namespace std;
 int main()
 {
+    // Declar variabila de tip caracter cu numele de "caracter"    
     char caracter;
+    //
     cout << "Intodu un caracter : ";
     cin >> caracter;
 

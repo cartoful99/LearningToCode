@@ -7,10 +7,6 @@ int main()
     int varsta;
     cout << "Te rog introdu o varsta : ";
     cin >> varsta;
-    
-    // =
-    // + - * / %
-    // > < >= <= == !=  -- operatori relationali
 
     if(varsta >= 18){
         cout << "Da, tipa are " << varsta << " ani!";
