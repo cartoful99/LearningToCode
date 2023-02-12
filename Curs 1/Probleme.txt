@@ -1,0 +1,7 @@
+1. Se dau 2 numere de la tastura, sa se afiseze cel mai mic multiplu comun / cel mai mare divizor comun.
+2. Se dau 3 numere de la tastatura, sa se afiseze daca cele 3 numere pot fi laturile unui triunghi dreptunghic.
+3. Se dau 2 numere de la tastatura, sa se afiseze toate numerele dintre acestea!
+    3*. Sa se afiseze toate numerele PARE dintre acestea!
+4. Sa se citeasca un caracter de la tastura si sa se verifice daca este vocala sau nu!
+
+5*. Citeste numere de la tastatura pana la intalnirea numarul 0. Sa se afiseze cel mai mare numar din acest sir.
