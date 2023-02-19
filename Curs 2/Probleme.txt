@@ -1,0 +1,26 @@
+1. Se citesc 2 numere de la tastatura. Ridica primul numar la al doilea!
+    Ex: pentru 2 si 4 trebuie sa iti dea 2^4 = 16
+2. Se citeste 1 numar de la tastatura. Sa se verifice daca este numar prim sau nu! 
+    * Un numar este prim daca are doar 2 divizori!
+    * Un numar are un divizor daca acel divizor se imparte exact la el. 
+    Ex: pentru 9, gasesti divizori : 1,3,9! Deci nu este prim pentru ca are 3 divizori.
+3. Se citeste 1 numar de la tastatura si 2 caractere. Sa se creeze un convertor de dimensiuni de Gb unde :
+    * 1 kb ( kilobyte ) = 1024 bytes
+    * 1 mb ( megagbyte ) = 1024 kb
+    * 1 gb ( gigabyte ) = 1024 mb
+    * 1 tb ( terrabyte ) = 1024 gb
+    Ex: 3 g m => 3 gb convertiti in mb => trebuie sa afiseze => 3072 
+    Ex: 8192 k m => 8192 kb convertiti in mb => trebuie sa afiseze => 8
+4. Se citesc de la tastatura numere pana la intalnirea numarului 0. Sa se afiseze produsul si suma acestora.
+    Ex: 2 3 6 4 1 0 => produsul 144 si suma 16
+5. Se citesc de la tastatura numere pana la intalnirea numarului 0. Sa se afiseze media aritmetica a numerelor. ( suma numerelor / numarul de numere )
+    Ex: 3 2 8 5 => 4.5
+6. Se citeste de la tastatura caractere pana la intalnirea caracterului 's'. Sa se numere cate vocale au aparut in sirul de caractere.
+    Ex: a k w q f e i h u m l o s => 5
+7. Se citeste de la tastatura 1 numar ce reprezinta secunde. Sa se afiseze orele, minutele si secundele.
+    Ex: 40 => 40 ( 40 secunde reprezinta tot 40 de secunde )
+    Ex: 250 => 4 10 ( 250 secunde reprezinta 4 minute si 10 secunde )
+    Ex: 3680 => 1 1 20 ( 3680 reprezinta 1 ora 1 minut si 20 de secunde )
+    * 1 secunda = 1 secunda
+    * 1 minute  = 60 secunde
+    * 1 ora = 3600 secunde
